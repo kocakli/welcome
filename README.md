@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://bento.me/og">
-  <img height="50" src="https://raw.githubusercontent.com/kocakli/welcome/main/website.png"/>
+  <img height="60" src="https://raw.githubusercontent.com/kocakli/welcome/main/link.png"/>
 </a>
 <a href="https://www.linkedin.com/in/kocakli">
   <img height="60" src="https://raw.githubusercontent.com/kocakli/welcome/main/LinkedIn-1.png"/>
@@ -27,5 +27,11 @@
 </a>
 <a href="https://www.twitch.tv/oguzhan">
   <img height=60" src="https://raw.githubusercontent.com/kocakli/welcome/main/Twitch-1.png"/>
+</a>
+  <a href="https://medium.com/@oguzhankocakli">
+  <img height="60" src="https://raw.githubusercontent.com/kocakli/welcome/main/medium.png"/>
+</a>
+  <a href="https://www.patreon.com/kocakli">
+  <img height="60" src="https://raw.githubusercontent.com/kocakli/welcome/main/cup.png"/>
 </a>
 </p>
